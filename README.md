@@ -1,9 +1,9 @@
-<!-- Level 1: Simple bio and stats -->
+<!-- Simple bio and stats -->
 
 ### hi, I'm christene ⭐️
 
 # 🧚🏾‍♂️ About Me:
-🛠 software Engineer sharing my journey and building new things<br>📚 studied Computer Science at Columbia in NYC<br>👯 streaming coffee chats with other girls in tech<br>🔭 #learninginpublic on Twitter @christenekidd<br>🌱 currently learning backend web dev and React
+🛠 software engineer sharing my journey and building new things<br>📚 studied comp sci @Columbia in NYC<br>👯 streaming coffee chats with other girls in tech<br>🔭 #learninginpublic on Twitter @christenekidd<br>🌱 currently learning backend web dev and react
 
 
 ## 🌐 Socials:
