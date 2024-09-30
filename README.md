@@ -3,7 +3,7 @@
 ### Christene ⭐️ Kidd
 
 # 🧚🏾‍♂️ about me:
-🛠 software engineer sharing my journey and building new things<br>📚 studied comp sci @Columbia in NYC<br>👯 streaming coffee chats with other girls in tech<br>🔭 #learninginpublic on Twitter @christenekidd<br>🌱 currently learning backend web dev and react
+🛠 software engineer sharing my journey and building new things<br>📚 studied comp sci in highschool and Uni <br>👯 streaming coffee chats with other girls in tech<br>🔭 #learninginpublic on Twitter @christenekidd<br>🌱 currently learning backend web dev and react
 
 
 ## 🌐 socials:
