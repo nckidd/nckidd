@@ -1,6 +1,6 @@
 <!-- Simple bio and stats -->
 
-### Christene ⭐️ Kidd
+### Christene Kidd
 
 # about me:
 🛠 software engineer sharing my journey and building new things<br>📚 studied computer science in high school and University <br>👯 streaming coffee chats with other women in tech<br>🔭 #learninginpublic on X (formerly Twitter) @christenekidd<br>🌱 currently learning backend web development
